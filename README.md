@@ -33,4 +33,5 @@ Esse projeto conta com:
 - Criação de issues;
 - Criação de branch;
 - Abertura de pull request;
-- Exploração da funcionalidade de adicionar colaborador.
+- Exploração da funcionalidade de adicionar colaborador;
+- Edição do README pelo colaborador.
