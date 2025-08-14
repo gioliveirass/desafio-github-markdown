@@ -27,3 +27,10 @@ O desafio da DIO ACADEMY explora de forma prática as funcionalidades do GitHub.
 ## Descrição do projeto
 
 O projeto consiste em uma atividade prática para explorar as funcionalidades de colaboração e markdown disponíveis no GitHub.
+
+Esse projeto conta com:
+- Exploração do markdown;
+- Criação de issues;
+- Criação de branch;
+- Abertura de pull request;
+- Exploração da funcionalidade de adicionar colaborador.
